@@ -8,5 +8,14 @@
   },
   {
     "package": "cmdstanr"
+  },
+  {
+    "package": "INLA"
+  },
+  {
+    "package": "tjmisc"
+  },
+  {
+    "package": "brmstools"
   }
 ]
