@@ -33,6 +33,16 @@
 	url = https://github.com/mvuorre/brmstools
 	shallow = true
 	registered = true
+[submodule "Statamarkdown"]
+	path = Statamarkdown
+	url = https://github.com/Hemken/Statamarkdown
+	shallow = true
+	registered = true
+[submodule "pavpop"]
+	path = pavpop
+	url = https://github.com/larslau/pavpop
+	shallow = true
+	registered = true
 [submodule "posterior"]
 	path = posterior
 	url = https://github.com/stan-dev/posterior

@@ -17,5 +17,11 @@
   },
   {
     "package": "brmstools"
+  },
+  {
+    "package": "Statamarkdown"
+  },
+  {
+    "package": "pavpop"
   }
 ]
