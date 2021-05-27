@@ -8,3 +8,13 @@
 	url = https://github.com/TylerGrantSmith/purrrgress
 	shallow = true
 	registered = true
+[submodule "brms"]
+	path = brms
+	url = https://github.com/paul-buerkner/brms
+	shallow = true
+	registered = true
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	shallow = true
+	registered = true

@@ -1,5 +1,12 @@
 [
   {
     "package": "purrrgress"
+  },
+  {
+    "package": "brms",
+    "oncran": true
+  },
+  {
+    "package": "cmdstanr"
   }
 ]
