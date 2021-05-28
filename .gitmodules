@@ -18,11 +18,6 @@
 	url = https://github.com/stan-dev/cmdstanr
 	shallow = true
 	registered = true
-[submodule "INLA"]
-	path = INLA
-	url = https://github.com/hrue/r-inla/tree/devel/rinla
-	shallow = true
-	registered = true
 [submodule "tjmisc"]
 	path = tjmisc
 	url = https://github.com/tjmahr/tjmisc
