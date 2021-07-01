@@ -28,14 +28,9 @@
 	url = https://github.com/mvuorre/brmstools
 	shallow = true
 	registered = true
-[submodule "Statamarkdown"]
-	path = Statamarkdown
-	url = https://github.com/Hemken/Statamarkdown
-	shallow = true
-	registered = true
-[submodule "pavpop"]
-	path = pavpop
-	url = https://github.com/larslau/pavpop
+[submodule "INLA"]
+	path = INLA
+	url = https://github.com/hrue/r-inla/tree/devel/rinla
 	shallow = true
 	registered = true
 [submodule "posterior"]
