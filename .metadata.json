@@ -17,5 +17,8 @@
   },
   {
     "package": "mmtable2"
+  },
+  {
+    "package": "rethinking"
   }
 ]

@@ -33,3 +33,8 @@
 	url = https://github.com/ianmoran11/mmtable2
 	shallow = true
 	registered = true
+[submodule "rethinking"]
+	path = rethinking
+	url = https://github.com/rmcelreath/rethinking
+	shallow = true
+	registered = true
