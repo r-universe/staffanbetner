@@ -20,5 +20,13 @@
   },
   {
     "package": "rethinking"
+  },
+  {
+    "package": "StanHeaders",
+    "oncran": false
+  },
+  {
+    "package": "rstan",
+    "oncran": true
   }
 ]
