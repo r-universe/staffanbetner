@@ -40,11 +40,15 @@
 	registered = true
 [submodule "StanHeaders"]
 	path = StanHeaders
-	url = https://github.com/stan-dev/rstan/tree/StanHeaders_2.26/StanHeaders
+	url = https://github.com/stan-dev/rstan
 	shallow = true
+	branch = StanHeaders_2.26
+	subdir = StanHeaders
 	registered = true
 [submodule "rstan"]
 	path = rstan
-	url = https://github.com/stan-dev/rstan/tree/StanHeaders_2.26/rstan
+	url = https://github.com/stan-dev/rstan
 	shallow = true
+	branch = StanHeaders_2.26
+	subdir = rstan
 	registered = true
