@@ -50,5 +50,5 @@
 	url = https://github.com/stan-dev/rstan
 	shallow = true
 	branch = StanHeaders_2.26
-	subdir = rstan
+	subdir = rstan/rstan
 	registered = true
