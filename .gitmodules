@@ -56,9 +56,11 @@
 	path = DHARMa
 	url = https://github.com/florianhartig/DHARMa
 	shallow = true
+	subdir = DHARMa
 	registered = true
 [submodule "glmmTMB"]
 	path = glmmTMB
 	url = https://github.com/glmmTMB/glmmTMB
 	shallow = true
+	subdir = glmmTMB
 	registered = true
