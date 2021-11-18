@@ -28,5 +28,13 @@
   {
     "package": "rstan",
     "oncran": true
+  },
+  {
+    "package": "DHARMa",
+    "oncran": true
+  },
+  {
+    "package": "glmmTMB",
+    "oncran": true
   }
 ]

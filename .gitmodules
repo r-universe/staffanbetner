@@ -52,3 +52,13 @@
 	branch = StanHeaders_2.26
 	subdir = rstan/rstan
 	registered = true
+[submodule "DHARMa"]
+	path = DHARMa
+	url = https://github.com/florianhartig/DHARMa
+	shallow = true
+	registered = true
+[submodule "glmmTMB"]
+	path = glmmTMB
+	url = https://github.com/glmmTMB/glmmTMB
+	shallow = true
+	registered = true
