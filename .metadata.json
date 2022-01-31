@@ -36,5 +36,9 @@
   {
     "package": "glmmTMB",
     "oncran": true
+  },
+  {
+    "package": "ada",
+    "oncran": false
   }
 ]

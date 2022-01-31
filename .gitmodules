@@ -64,3 +64,9 @@
 	shallow = true
 	subdir = glmmTMB
 	registered = true
+[submodule "ada"]
+	path = ada
+	url = https://github.com/MansMeg/ada_code
+	shallow = true
+	subdir = rpackage
+	registered = true
