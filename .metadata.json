@@ -38,6 +38,7 @@
     "oncran": true
   },
   {
-    "package": "adapop"
+    "package": "openssl",
+    "oncran": false
   }
 ]

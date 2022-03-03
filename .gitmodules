@@ -64,9 +64,8 @@
 	shallow = true
 	subdir = glmmTMB
 	registered = true
-[submodule "adapop"]
-	path = adapop
-	url = https://github.com/StaffanBetner/ada_code
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/cran/openssl
 	shallow = true
-	subdir = rpackage
 	registered = true
