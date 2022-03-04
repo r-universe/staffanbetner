@@ -40,5 +40,9 @@
   {
     "package": "openssl",
     "oncran": false
+  },
+  {
+    "package": "mgcv",
+    "oncran": false
   }
 ]

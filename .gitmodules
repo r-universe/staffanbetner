@@ -69,3 +69,8 @@
 	url = https://github.com/cran/openssl
 	shallow = true
 	registered = true
+[submodule "mgcv"]
+	path = mgcv
+	url = https://github.com/cran/mgcv
+	shallow = true
+	registered = true
