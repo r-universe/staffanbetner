@@ -44,5 +44,22 @@
   {
     "package": "mgcv",
     "oncran": false
+  },
+  {
+    "package": "ggforestplot"
+  },
+  {
+    "package": "huttenlocher1991"
+  },
+  {
+    "package": "logistf",
+    "oncran": true
+  },
+  {
+    "package": "projpred",
+    "oncran": true
+  },
+  {
+    "package": "roomba"
   }
 ]

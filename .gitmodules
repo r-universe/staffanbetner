@@ -74,3 +74,29 @@
 	url = https://github.com/cran/mgcv
 	shallow = true
 	registered = true
+[submodule "ggforestplot"]
+	path = ggforestplot
+	url = https://github.com/NightingaleHealth/ggforestplot
+	shallow = true
+	registered = true
+[submodule "huttenlocher1991"]
+	path = huttenlocher1991
+	url = https://github.com/tjmahr/huttenlocher1991
+	shallow = true
+	registered = true
+[submodule "logistf"]
+	path = logistf
+	url = https://github.com/georgheinze/logistf
+	shallow = true
+	registered = true
+[submodule "projpred"]
+	path = projpred
+	url = https://github.com/stan-dev/projpred
+	shallow = true
+	branch = develop
+	registered = true
+[submodule "roomba"]
+	path = roomba
+	url = https://github.com/cstawitz/roomba
+	shallow = true
+	registered = true
