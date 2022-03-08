@@ -105,3 +105,33 @@
 	url = https://github.com/marcosci/layer
 	shallow = true
 	registered = true
+[submodule "MatrixLDA"]
+	path = MatrixLDA
+	url = https://github.com/ajmolstad/MatrixLDA
+	shallow = true
+	registered = true
+[submodule "BvCategorical"]
+	path = BvCategorical
+	url = https://github.com/ajmolstad/BvCategorical
+	shallow = true
+	registered = true
+[submodule "MSRL"]
+	path = MSRL
+	url = https://github.com/ajmolstad/MSRL
+	shallow = true
+	registered = true
+[submodule "MCMVR"]
+	path = MCMVR
+	url = https://github.com/ajmolstad/MCMVR
+	shallow = true
+	registered = true
+[submodule "SurvGPR"]
+	path = SurvGPR
+	url = https://github.com/ajmolstad/SurvGPR
+	shallow = true
+	registered = true
+[submodule "penAFT"]
+	path = penAFT
+	url = https://github.com/ajmolstad/penAFT
+	shallow = true
+	registered = true

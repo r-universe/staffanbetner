@@ -65,5 +65,25 @@
   {
     "package": "layer",
     "oncran": false
+  },
+  {
+    "package": "MatrixLDA",
+    "oncran": false
+  },
+  {
+    "package": "BvCategorical"
+  },
+  {
+    "package": "MSRL"
+  },
+  {
+    "package": "MCMVR"
+  },
+  {
+    "package": "SurvGPR"
+  },
+  {
+    "package": "penAFT",
+    "oncran": false
   }
 ]
