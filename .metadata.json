@@ -61,5 +61,9 @@
   },
   {
     "package": "roomba"
+  },
+  {
+    "package": "layer",
+    "oncran": false
   }
 ]

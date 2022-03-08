@@ -100,3 +100,8 @@
 	url = https://github.com/cstawitz/roomba
 	shallow = true
 	registered = true
+[submodule "layer"]
+	path = layer
+	url = https://github.com/marcosci/layer
+	shallow = true
+	registered = true
