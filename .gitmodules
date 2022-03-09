@@ -135,3 +135,8 @@
 	url = https://github.com/ajmolstad/penAFT
 	shallow = true
 	registered = true
+[submodule "debkeepr"]
+	path = debkeepr
+	url = https://github.com/jessesadler/debkeepr
+	shallow = true
+	registered = true
