@@ -140,3 +140,14 @@
 	url = https://github.com/jessesadler/debkeepr
 	shallow = true
 	registered = true
+[submodule "ordbetareg"]
+	path = ordbetareg
+	url = https://github.com/saudiwin/ordbetareg_pack
+	shallow = true
+	registered = true
+[submodule "INLA"]
+	path = INLA
+	url = https://github.com/hrue/r-inla
+	shallow = true
+	subdir = rinla
+	registered = true

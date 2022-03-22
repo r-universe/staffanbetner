@@ -88,5 +88,12 @@
   },
   {
     "package": "debkeepr"
+  },
+  {
+    "package": "ordbetareg",
+    "oncran": true
+  },
+  {
+    "package": "INLA"
   }
 ]
