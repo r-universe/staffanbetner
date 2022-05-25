@@ -27,7 +27,7 @@
   },
   {
     "package": "rstan",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "DHARMa",
