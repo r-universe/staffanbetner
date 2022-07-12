@@ -31,11 +31,11 @@
   },
   {
     "package": "DHARMa",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "glmmTMB",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "openssl",
