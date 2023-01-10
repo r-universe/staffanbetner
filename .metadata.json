@@ -63,8 +63,7 @@
     "package": "roomba"
   },
   {
-    "package": "layer",
-    "oncran": false
+    "package": "layer"
   },
   {
     "package": "MatrixLDA",
