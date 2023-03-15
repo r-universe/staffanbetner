@@ -89,7 +89,8 @@
     "package": "debkeepr"
   },
   {
-    "package": "ordbetareg"
+    "package": "ordbetareg",
+    "oncran": true
   },
   {
     "package": "INLA"
