@@ -67,7 +67,7 @@
   },
   {
     "package": "MatrixLDA",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "BvCategorical"
