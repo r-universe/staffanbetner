@@ -3,8 +3,7 @@
     "package": "purrrgress"
   },
   {
-    "package": "brms",
-    "oncran": true
+    "package": "brms"
   },
   {
     "package": "cmdstanr"
@@ -22,28 +21,22 @@
     "package": "rethinking"
   },
   {
-    "package": "StanHeaders",
-    "oncran": false
+    "package": "StanHeaders"
   },
   {
-    "package": "rstan",
-    "oncran": false
+    "package": "rstan"
   },
   {
-    "package": "DHARMa",
-    "oncran": true
+    "package": "DHARMa"
   },
   {
-    "package": "glmmTMB",
-    "oncran": true
+    "package": "glmmTMB"
   },
   {
-    "package": "openssl",
-    "oncran": false
+    "package": "openssl"
   },
   {
-    "package": "mgcv",
-    "oncran": false
+    "package": "mgcv"
   },
   {
     "package": "ggforestplot"
@@ -52,12 +45,10 @@
     "package": "huttenlocher1991"
   },
   {
-    "package": "logistf",
-    "oncran": true
+    "package": "logistf"
   },
   {
-    "package": "projpred",
-    "oncran": true
+    "package": "projpred"
   },
   {
     "package": "roomba"
@@ -66,8 +57,7 @@
     "package": "layer"
   },
   {
-    "package": "MatrixLDA",
-    "oncran": true
+    "package": "MatrixLDA"
   },
   {
     "package": "BvCategorical"
@@ -82,15 +72,13 @@
     "package": "SurvGPR"
   },
   {
-    "package": "penAFT",
-    "oncran": false
+    "package": "penAFT"
   },
   {
     "package": "debkeepr"
   },
   {
-    "package": "ordbetareg",
-    "oncran": true
+    "package": "ordbetareg"
   },
   {
     "package": "INLA"
