@@ -1,153 +1,96 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/staffanbetner/universe
-	shallow = true
 	branch = HEAD
 [submodule "purrrgress"]
 	path = purrrgress
 	url = https://github.com/TylerGrantSmith/purrrgress
-	shallow = true
-	registered = true
 [submodule "brms"]
 	path = brms
 	url = https://github.com/paul-buerkner/brms
-	shallow = true
-	registered = true
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	shallow = true
-	registered = true
 [submodule "tjmisc"]
 	path = tjmisc
 	url = https://github.com/tjmahr/tjmisc
-	shallow = true
-	registered = true
 [submodule "brmstools"]
 	path = brmstools
 	url = https://github.com/mvuorre/brmstools
-	shallow = true
-	registered = true
 [submodule "mmtable2"]
 	path = mmtable2
 	url = https://github.com/ianmoran11/mmtable2
-	shallow = true
-	registered = true
 [submodule "rethinking"]
 	path = rethinking
 	url = https://github.com/rmcelreath/rethinking
-	shallow = true
-	registered = true
 [submodule "StanHeaders"]
 	path = StanHeaders
 	url = https://github.com/stan-dev/rstan
-	shallow = true
 	branch = StanHeaders_2.26
 	subdir = StanHeaders
-	registered = true
 [submodule "rstan"]
 	path = rstan
 	url = https://github.com/stan-dev/rstan
-	shallow = true
 	branch = StanHeaders_2.26
 	subdir = rstan/rstan
-	registered = true
 [submodule "DHARMa"]
 	path = DHARMa
 	url = https://github.com/florianhartig/DHARMa
-	shallow = true
 	subdir = DHARMa
-	registered = true
 [submodule "glmmTMB"]
 	path = glmmTMB
 	url = https://github.com/glmmTMB/glmmTMB
-	shallow = true
 	subdir = glmmTMB
-	registered = true
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
-	shallow = true
-	registered = true
 [submodule "mgcv"]
 	path = mgcv
 	url = https://github.com/cran/mgcv
-	shallow = true
-	registered = true
 [submodule "ggforestplot"]
 	path = ggforestplot
 	url = https://github.com/NightingaleHealth/ggforestplot
-	shallow = true
-	registered = true
 [submodule "huttenlocher1991"]
 	path = huttenlocher1991
 	url = https://github.com/tjmahr/huttenlocher1991
-	shallow = true
-	registered = true
 [submodule "logistf"]
 	path = logistf
 	url = https://github.com/georgheinze/logistf
-	shallow = true
-	registered = true
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/stan-dev/projpred
-	shallow = true
 	branch = develop
-	registered = true
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/cstawitz/roomba
-	shallow = true
-	registered = true
 [submodule "layer"]
 	path = layer
 	url = https://github.com/marcosci/layer
-	shallow = true
-	registered = true
 [submodule "MatrixLDA"]
 	path = MatrixLDA
 	url = https://github.com/ajmolstad/MatrixLDA
-	shallow = true
-	registered = true
 [submodule "BvCategorical"]
 	path = BvCategorical
 	url = https://github.com/ajmolstad/BvCategorical
-	shallow = true
-	registered = true
 [submodule "MSRL"]
 	path = MSRL
 	url = https://github.com/ajmolstad/MSRL
-	shallow = true
-	registered = true
 [submodule "MCMVR"]
 	path = MCMVR
 	url = https://github.com/ajmolstad/MCMVR
-	shallow = true
-	registered = true
 [submodule "SurvGPR"]
 	path = SurvGPR
 	url = https://github.com/ajmolstad/SurvGPR
-	shallow = true
-	registered = true
 [submodule "penAFT"]
 	path = penAFT
 	url = https://github.com/ajmolstad/penAFT
-	shallow = true
-	registered = true
 [submodule "debkeepr"]
 	path = debkeepr
 	url = https://github.com/jessesadler/debkeepr
-	shallow = true
-	registered = true
 [submodule "ordbetareg"]
 	path = ordbetareg
 	url = https://github.com/saudiwin/ordbetareg_pack
-	shallow = true
-	registered = true
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/hrue/r-inla
-	shallow = true
 	subdir = rinla
-	registered = true
