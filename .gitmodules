@@ -2,95 +2,95 @@
 	path = .registry
 	url = https://github.com/staffanbetner/universe
 	branch = HEAD
-[submodule "purrrgress"]
-	path = purrrgress
-	url = https://github.com/TylerGrantSmith/purrrgress
-[submodule "brms"]
-	path = brms
-	url = https://github.com/paul-buerkner/brms
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-[submodule "tjmisc"]
-	path = tjmisc
-	url = https://github.com/tjmahr/tjmisc
-[submodule "brmstools"]
-	path = brmstools
-	url = https://github.com/mvuorre/brmstools
-[submodule "mmtable2"]
-	path = mmtable2
-	url = https://github.com/ianmoran11/mmtable2
-[submodule "rethinking"]
-	path = rethinking
-	url = https://github.com/rmcelreath/rethinking
+[submodule "BvCategorical"]
+	path = BvCategorical
+	url = https://github.com/ajmolstad/BvCategorical
+[submodule "DHARMa"]
+	path = DHARMa
+	url = https://github.com/florianhartig/DHARMa
+	subdir = DHARMa
+[submodule "INLA"]
+	path = INLA
+	url = https://github.com/hrue/r-inla
+	subdir = rinla
+[submodule "MCMVR"]
+	path = MCMVR
+	url = https://github.com/ajmolstad/MCMVR
+[submodule "MSRL"]
+	path = MSRL
+	url = https://github.com/ajmolstad/MSRL
+[submodule "MatrixLDA"]
+	path = MatrixLDA
+	url = https://github.com/ajmolstad/MatrixLDA
 [submodule "StanHeaders"]
 	path = StanHeaders
 	url = https://github.com/stan-dev/rstan
 	branch = StanHeaders_2.26
 	subdir = StanHeaders
+[submodule "SurvGPR"]
+	path = SurvGPR
+	url = https://github.com/ajmolstad/SurvGPR
+[submodule "brms"]
+	path = brms
+	url = https://github.com/paul-buerkner/brms
+[submodule "brmstools"]
+	path = brmstools
+	url = https://github.com/mvuorre/brmstools
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+[submodule "debkeepr"]
+	path = debkeepr
+	url = https://github.com/jessesadler/debkeepr
+[submodule "ggforestplot"]
+	path = ggforestplot
+	url = https://github.com/NightingaleHealth/ggforestplot
+[submodule "glmmTMB"]
+	path = glmmTMB
+	url = https://github.com/glmmTMB/glmmTMB
+	subdir = glmmTMB
+[submodule "huttenlocher1991"]
+	path = huttenlocher1991
+	url = https://github.com/tjmahr/huttenlocher1991
+[submodule "layer"]
+	path = layer
+	url = https://github.com/marcosci/layer
+[submodule "logistf"]
+	path = logistf
+	url = https://github.com/georgheinze/logistf
+[submodule "mgcv"]
+	path = mgcv
+	url = https://github.com/cran/mgcv
+[submodule "mmtable2"]
+	path = mmtable2
+	url = https://github.com/ianmoran11/mmtable2
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/cran/openssl
+[submodule "ordbetareg"]
+	path = ordbetareg
+	url = https://github.com/saudiwin/ordbetareg_pack
+[submodule "penAFT"]
+	path = penAFT
+	url = https://github.com/ajmolstad/penAFT
+[submodule "projpred"]
+	path = projpred
+	url = https://github.com/stan-dev/projpred
+	branch = develop
+[submodule "purrrgress"]
+	path = purrrgress
+	url = https://github.com/TylerGrantSmith/purrrgress
+[submodule "rethinking"]
+	path = rethinking
+	url = https://github.com/rmcelreath/rethinking
+[submodule "roomba"]
+	path = roomba
+	url = https://github.com/cstawitz/roomba
 [submodule "rstan"]
 	path = rstan
 	url = https://github.com/stan-dev/rstan
 	branch = StanHeaders_2.26
 	subdir = rstan/rstan
-[submodule "DHARMa"]
-	path = DHARMa
-	url = https://github.com/florianhartig/DHARMa
-	subdir = DHARMa
-[submodule "glmmTMB"]
-	path = glmmTMB
-	url = https://github.com/glmmTMB/glmmTMB
-	subdir = glmmTMB
-[submodule "openssl"]
-	path = openssl
-	url = https://github.com/cran/openssl
-[submodule "mgcv"]
-	path = mgcv
-	url = https://github.com/cran/mgcv
-[submodule "ggforestplot"]
-	path = ggforestplot
-	url = https://github.com/NightingaleHealth/ggforestplot
-[submodule "huttenlocher1991"]
-	path = huttenlocher1991
-	url = https://github.com/tjmahr/huttenlocher1991
-[submodule "logistf"]
-	path = logistf
-	url = https://github.com/georgheinze/logistf
-[submodule "projpred"]
-	path = projpred
-	url = https://github.com/stan-dev/projpred
-	branch = develop
-[submodule "roomba"]
-	path = roomba
-	url = https://github.com/cstawitz/roomba
-[submodule "layer"]
-	path = layer
-	url = https://github.com/marcosci/layer
-[submodule "MatrixLDA"]
-	path = MatrixLDA
-	url = https://github.com/ajmolstad/MatrixLDA
-[submodule "BvCategorical"]
-	path = BvCategorical
-	url = https://github.com/ajmolstad/BvCategorical
-[submodule "MSRL"]
-	path = MSRL
-	url = https://github.com/ajmolstad/MSRL
-[submodule "MCMVR"]
-	path = MCMVR
-	url = https://github.com/ajmolstad/MCMVR
-[submodule "SurvGPR"]
-	path = SurvGPR
-	url = https://github.com/ajmolstad/SurvGPR
-[submodule "penAFT"]
-	path = penAFT
-	url = https://github.com/ajmolstad/penAFT
-[submodule "debkeepr"]
-	path = debkeepr
-	url = https://github.com/jessesadler/debkeepr
-[submodule "ordbetareg"]
-	path = ordbetareg
-	url = https://github.com/saudiwin/ordbetareg_pack
-[submodule "INLA"]
-	path = INLA
-	url = https://github.com/hrue/r-inla
-	subdir = rinla
+[submodule "tjmisc"]
+	path = tjmisc
+	url = https://github.com/tjmahr/tjmisc
