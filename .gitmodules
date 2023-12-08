@@ -22,6 +22,9 @@
 [submodule "MatrixLDA"]
 	path = MatrixLDA
 	url = https://github.com/ajmolstad/MatrixLDA
+[submodule "StanEstimators"]
+	path = StanEstimators
+	url = https://github.com/andrjohns/StanEstimators
 [submodule "StanHeaders"]
 	path = StanHeaders
 	url = https://github.com/stan-dev/rstan
