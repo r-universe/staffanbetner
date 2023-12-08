@@ -2,37 +2,13 @@
 	path = .registry
 	url = https://github.com/staffanbetner/universe
 	branch = HEAD
-[submodule "BvCategorical"]
-	path = BvCategorical
-	url = https://github.com/ajmolstad/BvCategorical
 [submodule "DHARMa"]
 	path = DHARMa
 	url = https://github.com/florianhartig/DHARMa
 	subdir = DHARMa
-[submodule "INLA"]
-	path = INLA
-	url = https://github.com/hrue/r-inla
-	subdir = rinla
-[submodule "MCMVR"]
-	path = MCMVR
-	url = https://github.com/ajmolstad/MCMVR
-[submodule "MSRL"]
-	path = MSRL
-	url = https://github.com/ajmolstad/MSRL
-[submodule "MatrixLDA"]
-	path = MatrixLDA
-	url = https://github.com/ajmolstad/MatrixLDA
 [submodule "StanEstimators"]
 	path = StanEstimators
 	url = https://github.com/andrjohns/StanEstimators
-[submodule "StanHeaders"]
-	path = StanHeaders
-	url = https://github.com/stan-dev/rstan
-	branch = StanHeaders_2.26
-	subdir = StanHeaders
-[submodule "SurvGPR"]
-	path = SurvGPR
-	url = https://github.com/ajmolstad/SurvGPR
 [submodule "brms"]
 	path = brms
 	url = https://github.com/paul-buerkner/brms
@@ -42,9 +18,6 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-[submodule "debkeepr"]
-	path = debkeepr
-	url = https://github.com/jessesadler/debkeepr
 [submodule "ggforestplot"]
 	path = ggforestplot
 	url = https://github.com/NightingaleHealth/ggforestplot
@@ -73,27 +46,16 @@
 [submodule "ordbetareg"]
 	path = ordbetareg
 	url = https://github.com/saudiwin/ordbetareg_pack
-[submodule "penAFT"]
-	path = penAFT
-	url = https://github.com/ajmolstad/penAFT
 [submodule "projpred"]
 	path = projpred
 	url = https://github.com/stan-dev/projpred
 	branch = develop
-[submodule "purrrgress"]
-	path = purrrgress
-	url = https://github.com/TylerGrantSmith/purrrgress
 [submodule "rethinking"]
 	path = rethinking
 	url = https://github.com/rmcelreath/rethinking
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/cstawitz/roomba
-[submodule "rstan"]
-	path = rstan
-	url = https://github.com/stan-dev/rstan
-	branch = StanHeaders_2.26
-	subdir = rstan/rstan
 [submodule "tjmisc"]
 	path = tjmisc
 	url = https://github.com/tjmahr/tjmisc
