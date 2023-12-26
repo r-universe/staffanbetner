@@ -8,7 +8,7 @@
 	subdir = DHARMa
 [submodule "StanEstimators"]
 	path = StanEstimators
-	url = https://github.com/staffanbetner/StanEstimators
+	url = https://github.com/andrjohns/StanEstimators
 [submodule "brms"]
 	path = brms
 	url = https://github.com/paul-buerkner/brms
