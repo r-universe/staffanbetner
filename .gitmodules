@@ -12,9 +12,9 @@
 [submodule "brmstools"]
 	path = brmstools
 	url = https://github.com/mvuorre/brmstools
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
+[submodule "collostructions"]
+	path = collostructions
+	url = https://github.com/skeptikantin/collostructions
 [submodule "ggforestplot"]
 	path = ggforestplot
 	url = https://github.com/NightingaleHealth/ggforestplot
@@ -25,9 +25,6 @@
 [submodule "huttenlocher1991"]
 	path = huttenlocher1991
 	url = https://github.com/tjmahr/huttenlocher1991
-[submodule "layer"]
-	path = layer
-	url = https://github.com/marcosci/layer
 [submodule "logistf"]
 	path = logistf
 	url = https://github.com/georgheinze/logistf
@@ -37,16 +34,15 @@
 [submodule "mmtable2"]
 	path = mmtable2
 	url = https://github.com/ianmoran11/mmtable2
+[submodule "neodistr"]
+	path = neodistr
+	url = https://github.com/madsyair/neodistr
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
 [submodule "ordbetareg"]
 	path = ordbetareg
 	url = https://github.com/saudiwin/ordbetareg_pack
-[submodule "projpred"]
-	path = projpred
-	url = https://github.com/stan-dev/projpred
-	branch = develop
 [submodule "rethinking"]
 	path = rethinking
 	url = https://github.com/rmcelreath/rethinking
