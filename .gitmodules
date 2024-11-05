@@ -9,9 +9,6 @@
 [submodule "brms"]
 	path = brms
 	url = https://github.com/paul-buerkner/brms
-[submodule "brmstools"]
-	path = brmstools
-	url = https://github.com/mvuorre/brmstools
 [submodule "collostructions"]
 	path = collostructions
 	url = https://github.com/skeptikantin/collostructions
