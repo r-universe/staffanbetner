@@ -42,7 +42,7 @@
 	url = https://github.com/saudiwin/ordbetareg_pack
 [submodule "rethinking"]
 	path = rethinking
-	url = https://github.com/rmcelreath/rethinking
+	url = https://github.com/staffanbetner/rethinking
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/cstawitz/roomba
