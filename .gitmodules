@@ -40,10 +40,6 @@
 [submodule "ordbetareg"]
 	path = ordbetareg
 	url = https://github.com/saudiwin/ordbetareg_pack
-[submodule "reformulas"]
-	path = reformulas
-	url = https://github.com/bbolker/reformulas
-	registered = false
 [submodule "rethinking"]
 	path = rethinking
 	url = https://github.com/staffanbetner/rethinking
