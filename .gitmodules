@@ -46,6 +46,9 @@
 [submodule "roomba"]
 	path = roomba
 	url = https://github.com/cstawitz/roomba
+[submodule "stanpop"]
+	path = stanpop
+	url = https://github.com/MansMeg/stanpop
 [submodule "tjmisc"]
 	path = tjmisc
 	url = https://github.com/tjmahr/tjmisc
