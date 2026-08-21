@@ -31,9 +31,6 @@
 [submodule "mmtable2"]
 	path = mmtable2
 	url = https://github.com/ianmoran11/mmtable2
-[submodule "neodistr"]
-	path = neodistr
-	url = https://github.com/madsyair/neodistr
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/cran/openssl
