@@ -8,7 +8,8 @@
 	subdir = DHARMa
 [submodule "brms"]
 	path = brms
-	url = https://github.com/paul-buerkner/brms
+	url = https://github.com/andrjohns/brms
+	branch = stanr-stanli
 [submodule "collostructions"]
 	path = collostructions
 	url = https://github.com/skeptikantin/collostructions
