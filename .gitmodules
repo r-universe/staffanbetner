@@ -6,6 +6,10 @@
 	path = DHARMa
 	url = https://github.com/florianhartig/DHARMa
 	subdir = DHARMa
+[submodule "baggr"]
+	path = baggr
+	url = https://github.com/wwiecek/baggr
+	branch = devel
 [submodule "brms"]
 	path = brms
 	url = https://github.com/andrjohns/brms
